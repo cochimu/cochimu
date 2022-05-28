@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=cochimu&theme=material-palenight&show_icons=ture" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=cochimu)
+![trophy](https://github-profile-trophy.vercel.app/?username=cochimu&column=7&theme=onedark)
