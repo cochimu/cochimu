@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cochimu&column=8&theme=onedark)
+
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/mumucochimu/posts.svg)](http://qiita.com/mumucochimu)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mumucochimu/contributions.svg)](http://qiita.com/mumucochimu)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/mumucochimu/followers.svg)](http://qiita.com/mumucochimu)
