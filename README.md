@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/mumucochimu/posts.svg)](http://qiita.com/mumucochimu)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/mumucochimu/contributions.svg)](http://qiita.com/mumucochimu)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/mumucochimu/followers.svg)](http://qiita.com/mumucochimu)
+
+![](https://komarev.com/ghpvc/?username=cochimu&color=blueviolet)
