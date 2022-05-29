@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=cochimu&color=blueviolet)
 
-![svg](https://github-contributions-api.deno.dev/kawarimidoll.svg)
+![svg](https://github-contributions-api.deno.dev/cochimu.svg)
